@@ -1,4 +1,4 @@
-# AI Undergrad for Artificial Intelligence Course
+# AI project for Artificial Intelligence Course
 
 
 
